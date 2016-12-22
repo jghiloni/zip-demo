@@ -63,7 +63,7 @@
 						<configuration>
 							<!-- This is where we use our shared assembly descriptor -->
 							<descriptorRefs>
-								<descriptorRef>springboot-pcf</descriptorRef>
+								<descriptorRef>application-with-manifest</descriptorRef>
 							</descriptorRefs>
 						</configuration>
 					</execution>
